@@ -1,4 +1,1 @@
-# jasmine-node
-Repositório para estudo de testes com Jasmine e Karma.
-
-Este repositório faz uso do TravisCI no projeto para simular integração contínua.
+[![Build Status](https://app.travis-ci.com/ThiagoMarques/jasmine-node.svg?branch=main)](https://app.travis-ci.com/ThiagoMarques/jasmine-node)
