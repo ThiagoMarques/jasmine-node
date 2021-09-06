@@ -1,0 +1,26 @@
+{
+  "name": "NodeJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-jamine": "jasmine",
+    "test-dev": "karma start",
+    "test": "karma start --single-run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.9.0",
+    "karma": "^6.3.4",
+    "karma-browserify": "^8.1.0",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-firefox-launcher": "^2.1.1",
+    "karma-jasmine": "^4.0.1",
+    "watchify": "^4.0.0"
+  },
+  "dependencies": {
+    "browserify": "^17.0.0"
+  }
+}
